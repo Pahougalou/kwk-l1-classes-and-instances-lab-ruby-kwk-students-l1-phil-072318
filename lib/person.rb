@@ -7,4 +7,4 @@ class Person
 end 
 
 
-adele_goldberg = person.new()
+adele_goldberg = Person.new()
